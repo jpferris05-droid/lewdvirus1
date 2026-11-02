@@ -1,0 +1,10 @@
+Data: 161 files, 8.5 MiB
+  .rxdata=137, .dat=24
+Graphics: 15565 files, 193.9 MiB
+  .png=15535, .png~=22, .kra=4, .kra~=2, .txt=1, .bmp=1
+Audio: 1583 files, 117.1 MiB
+  .ogg=1550, .mid=32, .ini=1
+Scripts: 402 files, 5.0 MiB
+  .rb=402
+PluginScripts: 29 files, 0.5 MiB
+  .rb=29

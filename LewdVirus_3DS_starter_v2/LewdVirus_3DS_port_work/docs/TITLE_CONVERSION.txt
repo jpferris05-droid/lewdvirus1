@@ -1,0 +1,4 @@
+Source: Graphics/Titles/title.png (512x384 RGBA)
+Output: assets/title.rgb565 (320x240 RGB565 little-endian)
+Output bytes: 153600
+Aspect ratio: 4:3 preserved
